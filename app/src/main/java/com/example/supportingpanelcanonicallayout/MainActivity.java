@@ -23,7 +23,6 @@ import com.google.android.material.navigationrail.NavigationRailView;
 import java.util.List;
 import java.util.concurrent.Executor;
 
-/** An Activity which hosts the Adaptive feed flow. */
 public class MainActivity extends AppCompatActivity {
 
     private AdaptiveSupportingPanelFragment fragment;
@@ -119,5 +118,4 @@ public class MainActivity extends AppCompatActivity {
             }
         }
     }
-
 }
